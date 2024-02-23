@@ -1,0 +1,28 @@
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.AssemblyInfo.cs
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.exe
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.deps.json
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.runtimeconfig.json
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.dll
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.pdb
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.dll
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\refint\ComputerAssistedInstruction.dll
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.pdb
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.genruntimeconfig.cache
+C:\Users\austi\source\repos\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ref\ComputerAssistedInstruction.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.exe
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.deps.json
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.runtimeconfig.json
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\bin\Debug\net8.0\ComputerAssistedInstruction.pdb
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.AssemblyInfoInputs.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.AssemblyInfo.cs
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.csproj.CoreCompileInputs.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\refint\ComputerAssistedInstruction.dll
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.pdb
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ComputerAssistedInstruction.genruntimeconfig.cache
+C:\Users\austi\OneDrive\Desktop\Projects\C# projects\ComputerAssistedInstruction\ComputerAssistedInstruction\obj\Debug\net8.0\ref\ComputerAssistedInstruction.dll
