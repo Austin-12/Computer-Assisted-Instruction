@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComputerAssistedInstruction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a9bda3d4610a0fc8e968b5f340ad8202b6114ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComputerAssistedInstruction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComputerAssistedInstruction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\austi\\OneDrive\\Desktop\\Projects\\C# projects\\ComputerAssistedInstruction\\ComputerAssistedInstruction\\ComputerAssistedInstruction.csproj",
+      "projectUniqueName": "C:\\Users\\austi\\OneDrive\\Desktop\\GITHUB\\Computer-Assisted-Instruction\\ComputerAssistedInstruction\\ComputerAssistedInstruction.csproj",
       "projectName": "ComputerAssistedInstruction",
-      "projectPath": "C:\\Users\\austi\\OneDrive\\Desktop\\Projects\\C# projects\\ComputerAssistedInstruction\\ComputerAssistedInstruction\\ComputerAssistedInstruction.csproj",
+      "projectPath": "C:\\Users\\austi\\OneDrive\\Desktop\\GITHUB\\Computer-Assisted-Instruction\\ComputerAssistedInstruction\\ComputerAssistedInstruction.csproj",
       "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\austi\\OneDrive\\Desktop\\Projects\\C# projects\\ComputerAssistedInstruction\\ComputerAssistedInstruction\\obj\\",
+      "outputPath": "C:\\Users\\austi\\OneDrive\\Desktop\\GITHUB\\Computer-Assisted-Instruction\\ComputerAssistedInstruction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
